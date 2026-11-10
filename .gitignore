@@ -1,0 +1,8 @@
+# Build results - publish the installer as a GitHub Release instead
+output/
+VU3INI-ATVC-builder-files/
+*.exe
+*.zip
+*.log
+Thumbs.db
+desktop.ini

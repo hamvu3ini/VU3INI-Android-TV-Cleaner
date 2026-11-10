@@ -1,0 +1,14 @@
+# Windows scripts and sources keep CRLF line endings; images and PDFs are binary
+*.bat text eol=crlf
+*.BAT text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+*.cs text eol=crlf
+*.iss text eol=crlf
+*.manifest text eol=crlf
+*.txt text eol=crlf
+*.md text eol=crlf
+*.png binary
+*.jpg binary
+*.pdf binary
+*.ico binary
